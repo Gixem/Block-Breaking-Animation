@@ -1,0 +1,7 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Blox.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Main.cpp
+ICBYTESx64Debug.lib(icbytes.obj) : warning LNK4099: PDB '' was not found with 'ICBYTESx64Debug.lib(icbytes.obj)' or at ''; linking object as if no debug info
+ICBYTESx64Debug.lib(ic_media.obj) : warning LNK4099: PDB '' was not found with 'ICBYTESx64Debug.lib(ic_media.obj)' or at ''; linking object as if no debug info
+ICBYTESx64Debug.lib(icb_gui.obj) : warning LNK4099: PDB '' was not found with 'ICBYTESx64Debug.lib(icb_gui.obj)' or at ''; linking object as if no debug info
+ICBYTESx64Debug.lib(jpgd.obj) : warning LNK4099: PDB '' was not found with 'ICBYTESx64Debug.lib(jpgd.obj)' or at ''; linking object as if no debug info
+  BreakBlockAnimation.vcxproj -> C:\Users\Emirhan\Desktop\ICBYTES_S_TR\BreakBlockAnimation - Copy\x64\Debug\BreakBlockAnimation.exe
